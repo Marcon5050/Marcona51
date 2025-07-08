@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Constance 
-- 👀 I’m interested in Machine learning 
+- 👀 I’m interested in Data Science and Machine learning 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me constancemartins51@gmail.com/+2347062232289
